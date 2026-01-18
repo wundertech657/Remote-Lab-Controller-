@@ -5,3 +5,4 @@ The OLED shows the current mode and the numbers. The screen updates are simple a
 The wiring is basic: the OLED goes to the I2C pins, the encoder goes to two digital pins plus one for the button, and the optional buttons go to other digital pins. Everything runs from USB‑C.
 The code is split into parts: one part draws the screen, one part handles the stopwatch and intensity logic, and one part sends the HID output. The project is easy to change if you want to add more features later.
 To use it, plug it into the computer, turn the encoder to choose a mode, press the button to start or stop, and the result will appear on the screen. If HID output is enabled, the value will be typed into the computer automatically.
+<img width="417" height="319" alt="Screenshot 2026-01-13 184152" src="https://github.com/user-attachments/assets/ba985028-6c87-42b2-b210-d373bebd9a4f" />
