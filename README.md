@@ -1,2 +1,2 @@
-# Razmond's Remote-Lab-Controller
-This is my project for the Hack Club Blueprint. I wanted to buil this pro
+# Raymond's Remote-Lab-Controller
+This is my project for the Hack Club Blueprint. I wanted to build this because I really like chemical engineering, and many times I needed to control my laptop from a safe distance during a reaction, but I couldn’t. I also enjoy engineering in general, and I wanted to try some electrical and software engineering projects to learn more about this part of science.
