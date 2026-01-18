@@ -10,3 +10,23 @@ Here is where the real design started. At this point I had to make a final decis
 ## 
 - The space above the microchip will be translucent
 -  next to the encoder the whole design is symmetric and comfortable to hold.
+  # 3D Design
+  In this part I was already more experienced, but until now I hadn’t really used fully finished component models. At this point I started to get familiar with more precise design and real‑world application. I used Fusion 360 because it fits my experience level and it’s great for accurate design work.
+  
+## The fully assembled model
+<img width="1918" height="1016" alt="Screenshot 2026-01-15 200624" src="https://github.com/user-attachments/assets/1f042488-fe9e-489d-8465-7e4269ee225c" />
+- The model from different perspectives
+
+<img width="1919" height="1020" alt="Screenshot 2026-01-15 200638" src="https://github.com/user-attachments/assets/1ec8d2f9-cf54-408c-b052-67906df187d6" />
+<img width="1919" height="1018" alt="Screenshot 2026-01-15 200649" src="https://github.com/user-attachments/assets/90974ff9-66cf-4c6f-99ec-b547dc3f81a4" />
+<img width="1919" height="1018" alt="Screenshot 2026-01-15 200719" src="https://github.com/user-attachments/assets/b6f97444-29a7-474f-aca6-80750d3a0c90" />
+- The case of the macropad
+<img width="1919" height="1021" alt="Screenshot 2026-01-15 200746" src="https://github.com/user-attachments/assets/5075b85e-f1ff-4ba1-b2ce-dae18f0e9c4a" />
+ - without the top part
+   <img width="1919" height="1020" alt="Screenshot 2026-01-15 200730" src="https://github.com/user-attachments/assets/7b31a10b-0c48-44cd-abf7-64652346f512" />
+     At the end of the modeling process, I made an engineering drawing.
+   <img width="957" height="678" alt="Screenshot 2026-01-15 202216" src="https://github.com/user-attachments/assets/03f4bc33-e300-493d-bd81-0a164f0eb24b" />
+   - Here you can see the model’s dimensions.
+
+
+
