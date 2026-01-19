@@ -27,6 +27,10 @@ Here is where the real design started. At this point I had to make a final decis
      At the end of the modeling process, I made an engineering drawing.
    <img width="957" height="678" alt="Screenshot 2026-01-15 202216" src="https://github.com/user-attachments/assets/03f4bc33-e300-493d-bd81-0a164f0eb24b" />
    - Here you can see the model’s dimensions.
+  
+   # The code
+   In this field I am very inexperienced, and I used help to create my firmware. It was written in C++. It’s very likely that it still has some errors, but the main structure and idea are clearly represented in the code.
+
 
 
 
