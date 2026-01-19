@@ -36,7 +36,7 @@ Here is where the real design started. At this point I had to make a final decis
 - EC11 Rotary encoders
 - 1 PCB
 - 0.91 inch OLED displays
-- Case[i have a 3D printer]
+- Case[I 3D print it ]
   
 
 
