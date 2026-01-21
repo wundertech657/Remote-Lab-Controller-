@@ -33,7 +33,7 @@ Here is where the real design started. At this point I had to make a final decis
 # List of materials
 - Seeed XIAO RP2040
 - 2 MX-Style switches
-- EC11 Rotary encoders
+- EC11 Rotary encoder
 - 1 PCB
 - 0.91 inch OLED displays
 - Case[I 3D print it ]
