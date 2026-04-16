@@ -14,7 +14,8 @@ Here is where the real design started. At this point I had to make a final decis
   In this part I was already more experienced, but until now I hadn’t really used fully finished component models. At this point I started to get familiar with more precise design and real‑world application. I used Fusion 360 because it fits my experience level and it’s great for accurate design work. When I 3D print the model I will add the joints in Bambu studio
   
 ## The fully assembled model
-<img width="1918" height="1016" alt="Screenshot 2026-01-15 200624" src="https://github.com/user-attachments/assets/1f042488-fe9e-489d-8465-7e4269ee225c" />
+<img width="852" height="540" alt="Képernyőkép 2026-04-16 201636" src="https://github.com/user-attachments/assets/0ee8afe9-a699-4eb3-a3fb-9197e6abbeb1" />
+
 - The model from different perspectives
 
 <img width="1919" height="1020" alt="Screenshot 2026-01-15 200638" src="https://github.com/user-attachments/assets/1ec8d2f9-cf54-408c-b052-67906df187d6" />
