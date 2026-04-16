@@ -40,6 +40,7 @@ Here is where the real design started. At this point I had to make a final decis
 - 1 PCB
 - 0.91 inch OLED displays
 - Case[I 3D print it ]
+- 2 Cherry MX Keycaps[I 3D print it]
   
 
 
