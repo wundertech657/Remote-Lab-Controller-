@@ -22,11 +22,13 @@ Here is where the real design started. At this point I had to make a final decis
 <img width="1919" height="1018" alt="Screenshot 2026-01-15 200649" src="https://github.com/user-attachments/assets/90974ff9-66cf-4c6f-99ec-b547dc3f81a4" />
 <img width="1919" height="1018" alt="Screenshot 2026-01-15 200719" src="https://github.com/user-attachments/assets/b6f97444-29a7-474f-aca6-80750d3a0c90" />
 - The case of the macropad
-<img width="1919" height="1021" alt="Screenshot 2026-01-15 200746" src="https://github.com/user-attachments/assets/5075b85e-f1ff-4ba1-b2ce-dae18f0e9c4a" />
+  <img width="909" height="589" alt="Képernyőkép 2026-04-16 202338" src="https://github.com/user-attachments/assets/18dc8b23-c221-4cf5-8928-b73b7b667400" />
+
 - without the top part
    <img width="1919" height="1020" alt="Screenshot 2026-01-15 200730" src="https://github.com/user-attachments/assets/7b31a10b-0c48-44cd-abf7-64652346f512" />
      At the end of the modeling process, I made an engineering drawing.
-   <img width="957" height="678" alt="Screenshot 2026-01-15 202216" src="https://github.com/user-attachments/assets/03f4bc33-e300-493d-bd81-0a164f0eb24b" />
+   <img width="900" height="636" alt="Képernyőkép 2026-04-16 202727" src="https://github.com/user-attachments/assets/946314cc-7f37-4dc9-a86f-d08ea0122a1d" />
+
    - Here you can see the model’s dimensions.
   
    # The code
